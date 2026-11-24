@@ -1,5 +1,6 @@
 //
 //
+//! g++ -I/opt/homebrew/include m.cpp -o a.out && ./a.out
 
 #include <bits/stdc++.h>
 using namespace std;
